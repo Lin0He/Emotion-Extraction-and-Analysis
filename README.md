@@ -8,3 +8,6 @@ A frequency spectrogram merging section that illustrate the merging of spectrogr
 A MFCC extraction section to create MFCC spectrograms used as input in model training.
 A CNN network section that contains a model that learns from MFCC inputs and achieves an accuracy of roughly 60%.
 The results are analysed with confusion matrix and statistical procedures (e.g. PCA). Some interesting results are found in our project.
+
+
+RAVDESS Data set: https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
